@@ -21,7 +21,7 @@ Solr从5.0版本开始，发行包中不再包含solr.war这样的文件，也�
 
 - 在打开的对话框中填入solr.cmd路径及执行参数。
 
-    ![NSSM service editor](http://7xqkz3.com1.z0.glb.clouddn.com/@/image/posts/nssm006.png)
+    ![NSSM service editor](http://7xqkz3.com1.z0.glb.clouddn.com/image/posts/nssm006.png)
     > 在设置参数时一定要加上`-f`（foreground），否则服务会反复启停。
 
 - 在参数都填写完以后，点击`install service`按钮即可添加服务。
