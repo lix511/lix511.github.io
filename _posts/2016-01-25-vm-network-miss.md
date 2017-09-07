@@ -6,7 +6,7 @@ date:       2016-01-25
 author:     "itcamel"
 tags:
     - vsphere
-    - CentOS
+    - linux
 ---
 
 ## 问题描述

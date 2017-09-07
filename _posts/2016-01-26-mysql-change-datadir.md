@@ -6,7 +6,7 @@ date:       2016-01-26
 author:     "itcamel"
 tags:
     - MySQL
-    - CentOS
+    - linux
 ---
 
 MySQL在实际生产环境中，当安装路径的磁盘分区较小时，通常需要更改数据文件的存储路径。
