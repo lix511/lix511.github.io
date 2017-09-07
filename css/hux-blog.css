@@ -373,7 +373,7 @@ pre code {
 }
 .intro-header {
   background: no-repeat center center;
-  background-color: #808080;
+  background-color: #565584;
   background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -532,7 +532,6 @@ pre code {
 }
 .post-content-preview {
   font-size: 13px;
-  font-style: italic;
   color: #a3a3a3;
 }
 .post-content-preview:hover {
