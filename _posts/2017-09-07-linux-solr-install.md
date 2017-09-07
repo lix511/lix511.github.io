@@ -2,7 +2,7 @@
 layout:     post
 title:      "Linux环境下solr的服务模式安装"
 subtitle:   ""
-date:       2016-01-28
+date:       2017-09-07
 author:     "itcamel"
 tags:
     - linux
