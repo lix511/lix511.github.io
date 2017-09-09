@@ -2,7 +2,7 @@
 layout:     post
 title:      "Linux环境下solr的服务模式安装"
 subtitle:   ""
-date:       2017-09-07
+date:       2016-02-15
 author:     "itcamel"
 tags:
     - linux
@@ -32,4 +32,4 @@ Usage: install_solr_service.sh path_to_solr_distribution_archive OPTIONS
 
     -u     User to own the Solr files and run the Solr process as; defaults to solr
              This script will create the specified user account if it does not exist.
-```
+```2
